@@ -30,6 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="50">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="50">                       
@@ -39,8 +40,7 @@
  
  #### :muscle: I want to learn in the future :
  
- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50">
+ <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50">
