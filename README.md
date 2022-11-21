@@ -13,7 +13,6 @@
 
 #### :star2: About Me :
 - :boy: my name is Denis, if you want to contact me :point_right: <a href="https://t.me/Foxrwilde"><img src="https://img.shields.io/badge/Telegram-1C222A?logo=Telegram&logoColor=black&style=for-the-badge" height="30"></a>
-- :seedling: newbie on developing (not for long i hope so :smirk:)
 - :runner: go go power rangers!
 
 
