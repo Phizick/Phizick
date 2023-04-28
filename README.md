@@ -35,16 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50">
- </div>
- 
- ---
- 
- #### :muscle: I want to learn in the future :
- 
- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="50">   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50">
-  </div>
+ </div>
   
   ---
   
