@@ -25,8 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-plain.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50">   
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="50">  
